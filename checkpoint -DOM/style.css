@@ -1,0 +1,11 @@
+.noheart{filter: grayscale(100%);}
+
+.item{
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+h1{padding: 10px;}
+p{margin: 20px;}
+h3{padding: 4px;}
